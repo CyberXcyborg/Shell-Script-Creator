@@ -1,5 +1,5 @@
-![Screenshot]2.png
-![Screenshot]1.png
+![Screenshot][2.png](https://github.com/CyberXcyborg/Shell-Script-Creator/blob/main/2.png)
+![Screenshot][1.png](https://github.com/CyberXcyborg/Shell-Script-Creator/blob/main/1.png)
 <h1 align="center">Shell Script Creato</h1>
 </a>
 
@@ -17,5 +17,6 @@
 
 If you find this project helpful, consider supporting me on 
 [Buy Me a Coffee][(https://www.buymeacoffee.com/cyberxcyborg)]
+
 If you find this project helpful, consider supporting me on [Buy Me a Coffee](https://www.buymeacoffee.com/cyberxcyborg).
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cyberxcyborg)
