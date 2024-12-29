@@ -1,4 +1,4 @@
-![Screenshot][[2.png](https://github.com/CyberXcyborg/Shell-Script-Creator/blob/main/2.png)]
+![Screenshot](https://github.com/CyberXcyborg/Shell-Script-Creator/blob/main/2.png)
 
 <h1 align="center">Shell Script Creato</h1>
 </a>
