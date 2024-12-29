@@ -15,8 +15,4 @@
 
 ## Support
 
-If you find this project helpful, consider supporting me on 
-[Buy Me a Coffee][(https://www.buymeacoffee.com/cyberxcyborg)]
-
-If you find this project helpful, consider supporting me on [Buy Me a Coffee](https://www.buymeacoffee.com/cyberxcyborg).
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cyberxcyborg)
+If you find this project helpful, consider supporting me on [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cyberxcyborg)
